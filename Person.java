@@ -23,6 +23,5 @@ public class Person {
         } catch (Exception e) {
             System.out.println("Đã xảy ra lỗi khi hiển thị thông tin: " + e.getMessage());
         }
-        //sua github
     }
 }
